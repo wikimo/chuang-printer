@@ -1,4 +1,4 @@
-聊聊自研打单系统那些事
+## 聊聊自研打单系统那些事
 
 对电商业务来说，订单打单是一个绕不开的环节，成熟的电商平台都配备了完善的打单系统软件。对于中小平台或自建系统来说，订单打单就变得比较困难。
 
@@ -16,6 +16,10 @@
 - 在线生成快递单号，无需手动导单；
 - 一笔订单可同步多笔物流运单
 - 支持系统对接、业务扩展，如停发通知等；
+
+![打单发货](https://raw.githubusercontent.com/wikimo/chuang-printer/refs/heads/main/images/001.png)
+
+![拆单发货](https://raw.githubusercontent.com/wikimo/chuang-printer/refs/heads/main/images/002.png)
 
 
 如果你也对打单系统感兴趣，欢迎交流沟通！
